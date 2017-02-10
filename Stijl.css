@@ -19,7 +19,7 @@ margin: 0 auto;
 
 #fotoruimte{
 background-color: white;
-background-image: url(img/logo_devixx.jpg);
+background-image: url("img/logo_devixx.jpg");
 background-size: 380px 100px;
 background-repeat: no-repeat;
 height: 100px;
