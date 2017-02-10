@@ -19,7 +19,7 @@ margin: 0 auto;
 
 #fotoruimte{
 background-color: blue;
-background-image: url(logo_devixx.jpg);
+background-image: url("https://github.com/arnaudverpoucke/arnaudverpoucke.github.io/blob/master/logo_devixx.JPG");
 background-size: 380px 100px;
 background-repeat: no-repeat;
 height: 100px;
