@@ -1,0 +1,89 @@
+﻿body{
+	background-color: white;
+	font-family: Century Gothic;
+	margin: 0 auto;
+}
+
+
+#wrapper{
+background-color: white;
+width: 1350px;
+height: 1500px ;
+margin: 0 auto;
+}
+
+
+
+
+
+
+#fotoruimte{
+background-color: white;
+background-image: url(../images/logo_devixx.jpg);
+background-size: 380px 100px;
+background-repeat: no-repeat;
+height: 100px;
+}
+
+#tabmenu{
+	font-size: 30px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#tabmenu ul{
+	list-style: none;
+	display: flex;
+	margin-left:380px;
+	margin-bottom: 40px;
+}
+
+
+.dunneVierkantRand{
+	border:4px solid black;
+}
+
+
+.dikkerand{
+	
+	border-right: 5px solid black;
+}
+
+#sectie1{
+background-color: yellow;
+width: 1350px;
+height: 200px ;
+margin: 0px;
+padding-top: 1px;
+}
+
+#sectie1 h1{
+padding-top: 1px;
+}
+
+#fotosectie1{
+background-color: #515B5E;
+margin: 0px;
+padding-top: 1px;
+height: 300px;
+}
+
+#navigatiebalk nav{
+
+width: 240px;
+height: 800px;
+float: left;
+background-color: #2E3233;
+}
+
+#navigatiebalk h2{
+	color: yellow;
+	margin-left: 30px;
+}
+
+
+#mainpicture{
+
+}
+
